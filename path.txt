@@ -4,3 +4,4 @@
 3. Learn PHP OOP, and MVC - done
 4. Learn PHP Framework(Laravel) - on going
 5. Learn Github - on going
+6. Learn structure data and algorithms JS and PHP - ongoing
