@@ -1,4 +1,5 @@
 1. Learn html & css - done
+^update and make branch
 2. Learn javascript from 0 to dom & ES6 - done
 3. Learn PHP OOP, and MVC - done
 4. Learn PHP Framework(Laravel) - on going
