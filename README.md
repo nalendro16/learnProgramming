@@ -1,2 +1,2 @@
 # learnProgramming
-This file showinjg thing that i was do about programming
+This file showing thing that i was do about programming
