@@ -1,0 +1,13 @@
+h1{
+	font-family: arial, verdana, sans-serif;
+	font-size: 80px;
+	font-weight: 500;
+	font-variant: small-caps;
+	color: maroon;
+	font-style: normal;
+}
+
+p{
+	font-family: georgia, serif;
+	line-height: 50px;
+}
