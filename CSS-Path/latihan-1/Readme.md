@@ -1,1 +1,1 @@
-Ini adalah latihan menggunakan
+Ini adalah latihan menggunakan github
