@@ -1,1 +1,1 @@
-Ini adalah latihan menggunakan github 1
+This exercise is showing how to using CSS in three different way
