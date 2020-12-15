@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Coba Position</title>
+	<style>
+		div{
+			width: 130px;
+			height: 130px;
+		}
+	.satu{
+		background-color: lightgreen;
+	}
+	.dua{
+		background-color: magenta;
+		position: static; /*tidak terjadi apa2*/
+		position:relative; /*
+		sudut pandang 3d(maju satu dimensi sehingga bisa gunakan top, left etc)*/
+		top: 80px;/*sehingga orange dibawah tidak ikut bergerak karena ada dibawah dua*/
+	}
+	.tiga{
+		background-color: gold;
+	}
+	</style>
+</head>
+<body>
+
+<div class="satu"></div>
+<div class="dua"></div>
+<div class="tiga"></div>
+
+</body>
+</html>
