@@ -3,15 +3,14 @@
 // }
 
 function generatePyramid() {
-    var output = '';
-    for (var i = 9; i > 0; i--) {
-        for (var j = 1; j <= i; j++) {
-            output += j+' ';
-        }
-        console.log(output);
-        output = '';
+  var output = ''
+  for (var i = 1; i <= 9; i++) {
+    for (var j = 1; j <= i; j++) {
+      output += j + ' '
     }
+    console.log(output)
+    output = ''
+  }
 }
 
-generatePyramid();
-   
+generatePyramid()
