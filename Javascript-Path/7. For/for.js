@@ -1,4 +1,4 @@
-// for(var nAwal =1;nAwal<=10;nAwal++){
+// for(var nAwal =1;nAkhir<=10;nAwal++){
 //     console.log('Hello world! ' + nAwal + 'x')
 // }
 
