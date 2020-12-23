@@ -15,11 +15,11 @@
 // console.log(arr);
 
 //3.Menampilkan Isi Array
-// var arr = ["Agung", "Wicaksono", "Irbah", "Muaafi"];
+var arr = ['Agung', 'Wicaksono', 'Irbah', 'Muaafi']
 
-// for (i = 0; i < arr.length; i++) {
-//   console.log("Mahasiswa ke-" + (i + 1) + " : " + arr[i]);
-// }
+for (i = 0; i < arr.length; i++) {
+  console.log('Mahasiswa ke-' + (i + 1) + ' : ' + arr[i])
+}
 
 //-------------------------------Method--------------------
 
