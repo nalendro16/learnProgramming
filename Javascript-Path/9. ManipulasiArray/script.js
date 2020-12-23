@@ -23,11 +23,11 @@
 
 //-------------------------------Method--------------------
 
-// //4. Join
-// var arr = ["Agung", "Wicaksono", "Irbah"];
-// console.log(arr.join(" - "));
+//4. Join
+var arr = ['Agung', 'Wicaksono', 'Irbah']
+console.log(arr.join(' - '))
 
 //5. Push
-var arr = ["Agung", "Wicaksono", "Irbah"];
-arr.push("Muaafi");
-console.log(arr.join(" - "));
+var arr = ['Agung', 'Wicaksono', 'Irbah']
+arr.push('Muaafi')
+console.log(arr.join(' - '))
