@@ -8,7 +8,7 @@ let mhs = {
     for (i = 0; i < this.ips.length; i++) {
       total += ipsem[i]
     }
-    // fungsi pembulatan
+    // fungsi pembulatan bilangan matematika
     return Math.round(total / ipsem.length)
   },
 }
