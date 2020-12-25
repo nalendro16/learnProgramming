@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Animation</title>
+    <style>
+        .kotak{
+            width: 200px;
+            height: 200px;
+            background-color: aqua;
+            animation: animasikanan 2s ease 1 alternate-reverse; 
+            /* DIRECRION:1 adalah iteration count( jumlah pengulangan)
+            normal adalah cara pemutaran animasi reserve/normal
+            alternate adalah pengulangan dari awal diulang s*/
+         }
+        /* .kotak:hover{
+            animation: animasikanan 2s ease;            
+        } */
+        @keyframes animasikanan{
+            0% {
+                width: 200px;
+            }
+            50% {
+                width:500px;
+                height: 100px;
+            }
+            100%{
+                width: 500px;
+                height: 200px;
+            }
+
+        }
+    </style>
+</head>
+<body>
+    <div class="kotak"></div>
+</body>
+</html>
