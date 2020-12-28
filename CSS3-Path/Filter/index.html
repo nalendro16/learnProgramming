@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filter</title>
+    <style>
+        body{
+            text-align: center;
+        }
+        img{
+            /* filter: blur(4px); */
+            /* filter: brightness(110%); */
+            /* filter: contrast(20%); */
+            /* filter: grayscale(100%); */
+            /* filter: hue-rotate(150deg); */
+            /* filter: opacity(.5); */
+            filter: blur(5px);
+        }
+        img:hover{
+            filter: drop-shadow(5px 5px 5px black);
+            transition: 1s;
+        }
+        h1{
+            filter: drop-shadow(5px 5px 5px black);
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <img src="fb.png" alt="logo">
+</body>
+</html>
