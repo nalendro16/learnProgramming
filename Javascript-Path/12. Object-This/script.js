@@ -5,11 +5,11 @@
 //membuat object
 
 //Cara 1- Function Declaration
-// function halo() {
-//   console.log(this);
-//   console.log("Halo");
-// }
-// this.halo(); //Memanggil function halo
+function halo() {
+  console.log(this)
+  console.log('Halo')
+}
+this.halo() //Memanggil function halo
 // This mengembalikan object global
 
 //Cara 2- Object Literal
