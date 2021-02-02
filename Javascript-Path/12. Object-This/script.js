@@ -13,19 +13,19 @@
 // This mengembalikan object global
 
 //Cara 2- Object Literal
-// var obj = { a: 10, nama: 'agung' }
-// obj.halo = function () {
-//   console.log(this)
-//   console.log('Halo')
-// }
-// obj.halo() //memanggil obj halo
-//This mengembalikan object yg bersangkutan(halo)
-
-//Cara 3- function construction
-function Halo() {
+var obj = { a: 10, nama: 'agung' }
+obj.halo = function () {
   console.log(this)
   console.log('Halo')
 }
-var obj1 = new Halo()
-var obj2 = new Halo()
+obj.halo() //memanggil obj halo
+//This mengembalikan object yg bersangkutan(halo)
+
+//Cara 3- function construction
+// function Halo() {
+//   console.log(this)
+//   console.log('Halo')
+// }
+// var obj1 = new Halo()
+// var obj2 = new Halo()
 //mengembalikan object yg baru dibuat
