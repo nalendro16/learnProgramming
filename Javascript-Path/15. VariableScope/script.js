@@ -1,10 +1,10 @@
 // // Varialbe global
 // var a=1;
 
-// function tes(){
-//     var b = 2;
-// }
-// tes()
+function tes() {
+  var b = 2
+}
+tes()
 // console.log(b) tidak bisa berjalan karena b ada didlm function
 //========================================================
 
@@ -34,10 +34,10 @@
 // console.log(a)
 //========================================================
 
-var a=1;
+var a = 1
 
-function tes(a){
-    //name conflict
-    console.log(a)
+function tes(a) {
+  //name conflict
+  console.log(a)
 }
 tes(2) //2 akan masuk dalam function a
