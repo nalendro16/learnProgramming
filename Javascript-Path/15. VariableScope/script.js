@@ -8,13 +8,13 @@
 // console.log(b) tidak bisa berjalan karena b ada didlm function
 //========================================================
 
-// var a=1;
+var a = 1
 
-// function tes(){
-//     var a = 2;
-// }
-// tes()
-// console.log(a) //akan menampilkan a=1 karena berada dalam variable global
+function tes() {
+  var a = 2
+}
+tes()
+console.log(a) //akan menampilkan a=1 karena berada dalam variable global
 //========================================================
 
 // var a=1;
