@@ -1,5 +1,5 @@
 // // Varialbe global
-// var a=1;
+var a = 1
 
 function tes() {
   var b = 2
