@@ -1,10 +1,10 @@
 // // Varialbe global
-var a = 1
+// var a = 1
 
-function tes() {
-  var b = 2
-}
-tes()
+// function tes() {
+//   var b = 2
+// }
+// tes()
 // console.log(b) tidak bisa berjalan karena b ada didlm function
 //========================================================
 
