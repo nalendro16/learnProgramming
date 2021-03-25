@@ -1,11 +1,12 @@
 // // Varialbe global
-// var a = 1
+var a = 1
 
-// function tes() {
-//   var b = 2
-// }
-// tes()
-// console.log(b) tidak bisa berjalan karena b ada didlm function
+function tes() {
+  var b = 2
+}
+tes()
+console.log(b)
+// tidak bisa berjalan karena b ada didlm function
 //========================================================
 
 // var a = 1
