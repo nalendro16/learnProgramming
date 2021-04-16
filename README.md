@@ -17,4 +17,4 @@ The Learning progress:
 6. Learn structure data and algorithms JS and PHP on freeCodecamp - ongoing
 
 Note:
-Any folders on this repo, that I've been working on it a few months ago
+Many folders on this repo that I've been working on it a few months ago
