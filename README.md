@@ -12,9 +12,9 @@ The Learning progress:
    ^update and make branch
 2. Learn javascript from 0 to dom & ES6 - done
 3. Learn PHP OOP, and MVC - done
-4. Learn PHP Framework(Laravel) - done
+4. Learn PHP Framework(Laravel) - done(will repeat)
 5. Learn Github - on going
-6. Learn structure data and algorithms JS and PHP - ongoing
+6. Learn structure data and algorithms JS and PHP on freeCodecamp - ongoing
 
 Note:
-Any folders on this repo, that I've been working on it a few months ago
+Many folders on this repo that I've been working on it a few months ago
