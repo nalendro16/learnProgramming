@@ -7,9 +7,9 @@
 // const p = document.getElementsByTagName("p")[3];
 // p.style.backgroundColor = "blue";
 
-// const judul = document.getElementsByTagName("h1")[0];
-// const a = document.querySelector("section#a a");
-// a.setAttribute("id", "link");
+const judul = document.getElementsByTagName('h1')[0]
+const a = document.querySelector('section#a a')
+a.setAttribute('id', 'link')
 
-const pp = document.getElementsByTagName("p");
-pp[1].classList.add("label");
+// const pp = document.getElementsByTagName("p");
+// pp[1].classList.add("label");
