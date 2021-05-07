@@ -1,8 +1,8 @@
 const judul = document.getElementById('judul')
 judul.innerHTML = '<i>NALENDRO AGUNG</i>'
 
-const el = document.querySelector('section#a')
-el.innerHTML = '<div>Diganti dgn Js!</div>'
+// const el = document.querySelector('section#a')
+// el.innerHTML = '<div>Diganti dgn Js!</div>'
 
 // const p = document.getElementsByTagName('p')[3]
 // p.style.backgroundColor = 'blue'
