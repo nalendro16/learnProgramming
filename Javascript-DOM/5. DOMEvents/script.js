@@ -37,12 +37,12 @@
 
 // Menggunakan event handler event pertama ditimpa hasilnya = tulisan merah
 
-const p3 = document.querySelector('.p3')
+// const p3 = document.querySelector('.p3')
 
-p3.addEventListener('mouseenter', function () {
-  p3.style.backgroundColor = 'lightblue'
-})
-p3.addEventListener('mouseleave', function () {
-  p3.style.backgroundColor = 'white'
-})
+// p3.addEventListener('mouseenter', function () {
+//   p3.style.backgroundColor = 'lightblue'
+// })
+// p3.addEventListener('mouseleave', function () {
+//   p3.style.backgroundColor = 'white'
+// })
 //bisa digunakan bersamaan
