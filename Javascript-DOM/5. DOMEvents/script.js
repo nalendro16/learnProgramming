@@ -6,12 +6,12 @@
 //   p2.style.backgroundColor = "lightblue";
 // }
 
-// function ubahWarnaP3() {
-//   p3.style.backgroundColor = "lightblue";
-// }
-// // Melakukan aksi pada JS saat klik paragraf 2
-// const p2 = document.getElementsByTagName("p")[1];
-// p2.onclick = ubahWarnaP2;
+function ubahWarnaP3() {
+  p3.style.backgroundColor = 'lightblue'
+}
+// Melakukan aksi pada JS saat klik paragraf 2
+const p2 = document.getElementsByTagName('p')[1]
+p2.onclick = ubahWarnaP2
 
 // //Event Listener=================================
 // const p4 = document.getElementsByTagName("p")[3];
@@ -37,12 +37,12 @@
 
 // Menggunakan event handler event pertama ditimpa hasilnya = tulisan merah
 
-const p3 = document.querySelector(".p3");
+const p3 = document.querySelector('.p3')
 
-p3.addEventListener("mouseenter", function () {
-  p3.style.backgroundColor = "lightblue";
-});
-p3.addEventListener("mouseleave", function () {
-  p3.style.backgroundColor = "white";
-});
+p3.addEventListener('mouseenter', function () {
+  p3.style.backgroundColor = 'lightblue'
+})
+p3.addEventListener('mouseleave', function () {
+  p3.style.backgroundColor = 'white'
+})
 //bisa digunakan bersamaan
