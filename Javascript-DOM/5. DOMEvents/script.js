@@ -26,14 +26,14 @@
 
 //P3 berubah warna saat di klik tetapi tulisan tidak berubah warn
 
-// const p3 = document.querySelector(".p3");
-// p3.onclick = function () {
-//   p3.style.backgroundColor = "lightblue";
-// };
+const p3 = document.querySelector('.p3')
+p3.onclick = function () {
+  p3.style.backgroundColor = 'lightblue'
+}
 
-// p3.onclick = function () {
-//   p3.style.color = "Red";
-// };
+p3.onclick = function () {
+  p3.style.color = 'Red'
+}
 
 // Menggunakan event handler event pertama ditimpa hasilnya = tulisan merah
 
