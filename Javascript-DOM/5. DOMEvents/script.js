@@ -6,12 +6,12 @@
 //   p2.style.backgroundColor = "lightblue";
 // }
 
-function ubahWarnaP3() {
-  p3.style.backgroundColor = 'lightblue'
-}
+// function ubahWarnaP3() {
+//   p3.style.backgroundColor = 'lightblue'
+// }
 // Melakukan aksi pada JS saat klik paragraf 2
-const p2 = document.getElementsByTagName('p')[1]
-p2.onclick = ubahWarnaP2
+// const p2 = document.getElementsByTagName('p')[1]
+// p2.onclick = ubahWarnaP2
 
 // //Event Listener=================================
 // const p4 = document.getElementsByTagName("p")[3];
