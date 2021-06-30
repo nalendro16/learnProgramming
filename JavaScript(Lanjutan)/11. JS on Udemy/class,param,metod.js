@@ -1,6 +1,6 @@
 class tambahHum {
   age = 22
-  printAge() {
+  printAge = () => {
     console.log(this.age)
   }
 }
